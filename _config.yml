@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: gumqii's homepage
-description:code life
+description: code life
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://gumqii.me" # the base hostname & protocol for your sit
